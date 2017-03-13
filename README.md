@@ -1,2 +1,2 @@
-# go-video-player
-A go web video player
+# web-video-player
+A web video player
